@@ -1,0 +1,17 @@
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\Servises.csproj.AssemblyReference.cache
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\Servises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\Servises.AssemblyInfoInputs.cache
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\Servises.AssemblyInfo.cs
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\Servises.csproj.CoreCompileInputs.cache
+C:\Users\engmu\source\repos\CRUDSolution\Servises\bin\Debug\net8.0\Servises.deps.json
+C:\Users\engmu\source\repos\CRUDSolution\Servises\bin\Debug\net8.0\Servises.dll
+C:\Users\engmu\source\repos\CRUDSolution\Servises\bin\Debug\net8.0\Servises.pdb
+C:\Users\engmu\source\repos\CRUDSolution\Servises\bin\Debug\net8.0\Entities.dll
+C:\Users\engmu\source\repos\CRUDSolution\Servises\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\engmu\source\repos\CRUDSolution\Servises\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\engmu\source\repos\CRUDSolution\Servises\bin\Debug\net8.0\Entities.pdb
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\Servises.csproj.Up2Date
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\Servises.dll
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\refint\Servises.dll
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\Servises.pdb
+C:\Users\engmu\source\repos\CRUDSolution\Servises\obj\Debug\net8.0\ref\Servises.dll

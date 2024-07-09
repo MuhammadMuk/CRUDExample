@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "w1a+FiOeWJI=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\engmu\\source\\repos\\CRUDSolution\\CRUDTests\\CRUDTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "xunit.runner.visualstudio"
+    }
+  ]
+}

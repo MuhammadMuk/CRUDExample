@@ -1,0 +1,148 @@
+﻿body {
+    font-family: 'Sego UI';
+    font-size: 18px;
+    background-color: #f7f7f7;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #055c87;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+.flex{
+    display:flex;
+    flex-wrap:wrap;
+    align-content:stretch;
+    align-items:stretch;
+}
+.flex > div{
+    padding:15px;
+}
+.form-label{
+    display: inline-block;
+}
+.ml{
+    margin-left:2px;
+}
+.form-input:focus{
+    outline:none;
+    border: 1px solid #245eb0;
+    box-shadow: 0 0 4px 0 #1383a4;
+}
+.a:link, a:visited{
+    color:blue;
+}
+a.link-hover:link{
+    padding:5px;
+    border-radius: 9px;
+    transition: background-color 0,2s;
+}
+.flex-1{
+    flex: 1 auto;
+}
+.flex-2 {
+    flex: 2 auto;
+}
+.button-green-back{
+    background-color:#088e36;
+    color:#666666;
+    border: 2px solid #73d695;
+}
+.button-green-back:hover {
+    background-color: #1274c7;
+}
+.text-red{
+    color:red;
+}
+.button-blue-back:hover {
+    background-color: #96370f;
+}
+.button-blue-back{
+    background-color: #3a81bd;
+    color: #ffffff;
+    border: 2px solid #3f80ca;
+}
+.button{
+    padding: 8px 12px;
+    border: 2px solid #cacaca;
+    border-radius: 8px;
+    outline:8px solid #ffffff;
+    font-size: 101%;
+}
+.form-input{
+    padding:8px 10px;
+    font-size:105%;
+    border-radius: 8px;
+    border: 1px solid #d0d0d0;
+    width: 100%;
+    transition: box-shadow 0.2s;
+}
+.box {
+    margin: 10px 20px;
+    padding: 15px;
+    border-radius: 8px;
+    border: 2px solid #d3d1d1;
+    box-shadow: 0 0 3px 2px #ffffff
+}
+.container {
+    min-width: 500px
+}
+
+.navbar {
+    background-color: #cacaca;
+    padding: 10px;
+    box-shadow: 0px 1px 2px 2px #cacaca;
+    display: flex;
+}
+
+.navbar-brand {
+    margin: 0 30px 5px 5px;
+    font-size: 1.1em;
+}
+
+.table {
+    border-collapse: collapse;
+    border: 1px solid #ffffff;
+    padding: 5px;
+    box-shadow: 0 0 4px 2px #e4e4e4;
+    margin: 10px 0;
+    margin: auto;
+}
+.table tbody tr:hover {
+    background-color: #83b2cb;
+}
+
+.table thead tr td {
+    background-color: bisque;
+    font-weight: bold;
+}
+
+.w-25 {
+    width: 25%
+}
+
+.w-50 {
+    width: 50%
+}
+
+.w-75 {
+    width: 75%
+}
+
+.w-90 {
+    width: 90%
+}
+
+.w-100 {
+    width: 100%
+}
+
+.mt {
+    margin-top: 10px;
+}
